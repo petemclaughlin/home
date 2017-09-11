@@ -1,4 +1,4 @@
-# Pete McLaughlin - Web Developer Portfolio<h1>
+# Pete McLaughlin - Web Developer Portfolio <h1>
 
 * Google Clone ![Google Clone](https://petemclaughlin.github.io/google-clone/)
 * 37 Signals ![Google Clone](https://petemclaughlin.github.io/37signals/)
