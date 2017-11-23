@@ -1,7 +1,5 @@
 # Pete McLaughlin - Web Developer Portfolio <h1>
 
-## Markdown text goes in here
-
 ### Project 1: [Google Clone](https://petemclaughlin.github.io/gogle-clone) 
 Google Clone. 15-Dec-13 Second version.  This was the first project to explore HTML, CSS and Layout methods.
 
