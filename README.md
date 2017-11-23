@@ -4,5 +4,6 @@
 * ![37 Signals ](https://petemclaughlin.github.io/37signals/)
 * ![Hot & Cold Game](https://petemclaughlin.github.io/hot-or-cold/)
 * ![Shoping List](https://petemclaughlin.github.io/shopping-list/)
+* ![Craigs List Redesign](https://www.behance.net/petemac64/)
 
 
