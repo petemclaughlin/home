@@ -7,7 +7,7 @@ Google Clone. 15-Dec-13 Second version.  This was the first project to explore H
 Objective to introduct interactive using javascript to recreate 37 Signals original webpage.
 
 #### Project 3: [Hot or Cold](https://petemclaughlin.github.io/hot-or-cold) 
-New Project - Google Clone. 15-Dec-13 Second version, footer height reduce, Google Logo corrected. 4-Dec-13-First version, somewhat rough keen to get something posted and not get behind.
+Build guessing game, using if then case switch.
 
 #### Project 4: [Shopping List](https://petemclaughlin.github.io/shoppinglist) 
-New Project - Google Clone. 15-Dec-13 Second version, footer height reduce, Google Logo corrected. 4-Dec-13-First version, somewhat rough keen to get something posted and not get behind.
+Create, edit and delete itemised shopping list.
