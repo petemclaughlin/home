@@ -16,5 +16,5 @@ Create, edit and delete itemised shopping list.
 Create, edit and delete itemised shopping list.
 n
 
-#### Project 6: [Resume: Treehouse TechDegree](https://petemclaughlin.github.io/shoppinglist) 
+#### Project 6: [Resume: Treehouse TechDegree](https://github.com/petemclaughlin/techdegree-project-1) 
 Create, edit and delete itemised shopping list.
