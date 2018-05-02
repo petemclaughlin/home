@@ -9,12 +9,12 @@ Objective to introduct interactive using javascript to recreate 37 Signals origi
 #### Project 3: [Hot or Cold](https://petemclaughlin.github.io/hot-or-cold) 
 Build guessing game, using if then case switch.
 
-#### Project 4: [Shopping List](https://petemclaughlin.github.io/shoppinglist) 
+#### Project 4: [Shopping List](https://www.behance.net/gallery/32554019/Craigslist-Redesig) 
 Create, edit and delete itemised shopping list.
 
-#### Project 5: [Website ReDesign(https://petemclaughlin.github.io/shoppinglist) 
+#### Project 5: [Website ReDesign](https://petemclaughlin.github.io/shoppinglist) 
 Create, edit and delete itemised shopping list.
-https://www.behance.net/gallery/32554019/Craigslist-Redesign
+n
 
 #### Project 6: [Resume: Treehouse TechDegree](https://petemclaughlin.github.io/shoppinglist) 
 Create, edit and delete itemised shopping list.
