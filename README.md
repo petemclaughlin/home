@@ -11,3 +11,10 @@ Build guessing game, using if then case switch.
 
 #### Project 4: [Shopping List](https://petemclaughlin.github.io/shoppinglist) 
 Create, edit and delete itemised shopping list.
+
+#### Project 5: [Website ReDesign(https://petemclaughlin.github.io/shoppinglist) 
+Create, edit and delete itemised shopping list.
+https://www.behance.net/gallery/32554019/Craigslist-Redesign
+
+#### Project 6: [Resume: Treehouse TechDegree](https://petemclaughlin.github.io/shoppinglist) 
+Create, edit and delete itemised shopping list.
