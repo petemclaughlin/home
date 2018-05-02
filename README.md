@@ -13,8 +13,7 @@ Build guessing game, using if then case switch.
 Create, edit and delete itemised shopping list.
 
 #### Project 5: [Website ReDesign](https://petemclaughlin.github.io/shoppinglist) 
-Create, edit and delete itemised shopping list.
-n
+ReDesign of Craigslist London Accommodation Pages
 
 #### Project 6: [Resume: Treehouse TechDegree](https://github.com/petemclaughlin/techdegree-project-1) 
 Create, edit and delete itemised shopping list.
