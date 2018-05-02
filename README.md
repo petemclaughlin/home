@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/petemclaughlin/home/skydive.jpg)
+
 
 ## Pete McLaughlin - Web Developer Portfolio
 
