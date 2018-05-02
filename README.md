@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/petemclaughlin/home/skydive.jpg)
+
 ## Pete McLaughlin - Web Developer Portfolio
 
 #### Project 1: [Google Clone](https://petemclaughlin.github.io/google-clone/) 
