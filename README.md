@@ -15,5 +15,5 @@ Create, edit and delete itemised shopping list.
 #### Project 5: [Website ReDesign](https://www.behance.net/gallery/32554019/Craigslist-Redesig) 
 ReDesign of Craigslist London Accommodation Pages
 
-#### Project 6: [Resume: Treehouse TechDegree](https://github.com/petemclaughlin/techdegree-project-1) 
+#### Project 6: [Resume: Treehouse TechDegree](https://petemclaughlin.github.io/techdegree-project-1/) 
 Treehouse Resume Project 1.
