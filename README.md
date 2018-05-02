@@ -1,6 +1,6 @@
 
 
-## Pete McLaughlin - Web Developer Portfolio
+## Pete McLaughlin - Aspiring web developerWeb Developer Portfolio
 
 #### Project 1: [Google Clone](https://petemclaughlin.github.io/google-clone/) 
 Google Clone. 15-Dec-13 Second version.  This was the first project to explore HTML, CSS and Layout methods.
