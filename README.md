@@ -20,5 +20,5 @@ ReDesign of Craigslist London Accommodation Pages
 #### Project 6: [Resume](https://petemclaughlin.github.io/resume/) 
 Resume.
 
-#### Client 1: [Resume](https://petemclaughlin.github.io/psbc/) 
-Resume.
+#### Client 1: [Resume](https://petemclaughlin.github.io/psbc) 
+Initial holding page for new building company based in Bournemouth.
