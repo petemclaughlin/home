@@ -2,11 +2,6 @@
 
 ## Pete McLaughlin - Aspiring Front End Web Developer Portfolio
 
-#### Client 1: [Holding Page](https://petemclaughlin.github.io/psbc) 
-Initial holding page for new building company based in Bournemouth.
-
-
-
 #### Project 1: [Google Clone](https://petemclaughlin.github.io/google-clone/) 
 Google Clone. 15-Dec-13 Second version.  This was the first project to explore HTML, CSS and Layout methods.
 
