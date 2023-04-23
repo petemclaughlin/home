@@ -2,19 +2,21 @@
 
 ## Pete McLaughlin - Aspiring Front End Web Developer Portfolio
 
+
+
 #### Project 1: [Website ReDesign](https://www.behance.net/gallery/32554019/Craigslist-Redesig) 
-ReDesign of Craigslist London Accommodation Pages
+Description:
 
-#### Project 2: [Google Clone](https://petemclaughlin.github.io/google-clone/) 
-Google Clone. 15-Dec-13 Second version.  This was the first project to explore HTML, CSS and Layout methods.
+#### Project 2: [#](https://petemclaughlin.github.io/) 
+Description:
 
-#### Project 3: [37 Signals](https://petemclaughlin.github.io/37signals) 
-Objective to introduct interactive using javascript to recreate 37 Signals original webpage.
+#### Project 3: [#](https://petemclaughlin.github.io/) 
+Description:
 
-#### Project 4: [Hot or Cold](https://petemclaughlin.github.io/hot-or-cold) 
-Build guessing game, using if then case switch.
+#### Project 4: [#](https://petemclaughlin.github.io/) 
+Description:
 
-#### Project 5: [Shopping List](https://petemclaughlin.github.io/shoppinglist) 
-Create, edit and delete itemised shopping list.
+#### Project 5: [#](https://petemclaughlin.github.io/) 
+Description:
 
 
